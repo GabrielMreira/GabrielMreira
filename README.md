@@ -1,6 +1,6 @@
 ## Olá, como vai? 
 
-- 🌱 Estou atualmente estudamdo HTML, CSS, JavaScript, PostgreSQL
+- 🌱 Estou atualmente estudando HTML, CSS, JavaScript, PostgreSQL
 - 👯 Estou buscando mais conhecimento em areas de front-end
 
 <div align="center">
